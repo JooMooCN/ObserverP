@@ -1,0 +1,15 @@
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\bin\Debug\net6.0\ObserverP.exe
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\bin\Debug\net6.0\ObserverP.deps.json
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\bin\Debug\net6.0\ObserverP.runtimeconfig.json
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\bin\Debug\net6.0\ObserverP.dll
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\bin\Debug\net6.0\ObserverP.pdb
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.csproj.AssemblyReference.cache
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.AssemblyInfoInputs.cache
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.AssemblyInfo.cs
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.csproj.CoreCompileInputs.cache
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.dll
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\refint\ObserverP.dll
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.pdb
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ObserverP.genruntimeconfig.cache
+C:\Users\youse\Desktop\VS Projekter\ObserverP\ObserverP\obj\Debug\net6.0\ref\ObserverP.dll

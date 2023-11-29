@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverP", "ObserverP\ObserverP.csproj", "{6073A3F5-1E88-43C5-9F3A-F16FCA866FEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{369E8D44-F879-49B0-988E-905FE648264E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6073A3F5-1E88-43C5-9F3A-F16FCA866FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6073A3F5-1E88-43C5-9F3A-F16FCA866FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6073A3F5-1E88-43C5-9F3A-F16FCA866FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6073A3F5-1E88-43C5-9F3A-F16FCA866FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369E8D44-F879-49B0-988E-905FE648264E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369E8D44-F879-49B0-988E-905FE648264E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369E8D44-F879-49B0-988E-905FE648264E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369E8D44-F879-49B0-988E-905FE648264E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37EFF0B2-13EE-4ECE-9057-FAD5D0C4EBCC}
+	EndGlobalSection
+EndGlobal
